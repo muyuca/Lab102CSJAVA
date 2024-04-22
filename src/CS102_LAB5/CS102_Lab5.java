@@ -2,7 +2,6 @@ package CS102_LAB5;
 
 import java.io.*;
 import java.util.*;
-import java.io.File;
 
 public class CS102_Lab5 {
     public static Scanner kb = new Scanner(System.in);
@@ -28,7 +27,7 @@ public class CS102_Lab5 {
         }
         return false;
     }
-    public static void readInts(String fileName) throws FileNotFoundException {
+    public static void readints(String fileName) throws FileNotFoundException {
         try {
             Scanner scanner = new Scanner(new File(fileName));
             int cnt = 0;
@@ -43,7 +42,8 @@ public class CS102_Lab5 {
             System.out.printf("Sum of numbers: %.2f\n" , sum);
             System.out.printf("Average: %.2f\n", (double) sum / cnt);
             scanner.close();
-        } catch (FileNotFoundException e) {
+        }
+        catch (FileNotFoundException e) {
             System.out.println("Error: File not found (" + fileName+")");
         }
     }
@@ -71,7 +71,7 @@ public class CS102_Lab5 {
         System.out.println("\nPART 2:");
         System.out.print("Enter file name: ");
         String fileName = kb.next();
-        readInts("ints.txt");
+        readints("ints.txt");
 
         System.out.println("\nPART 3:");
         System.out.print("Enter count of numbers: ");
