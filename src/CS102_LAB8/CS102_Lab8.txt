@@ -1,0 +1,20 @@
+77105127744;Christina;Owen;F;1989;Civil Eng.
+66487548864;Albert;Brown;M;1988;Software Eng.
+40747392192;Michelle;Ward;F;1992;Genetic Eng.
+46149493024;Rachel;Thompson;F;1988;Neuroscientist
+47697986880;Rebecca;Lewis;F;1980;Psychologist
+47252297312;Ryan;Palmer;M;1980;Geneticist
+78690483296;Kimberly;Jones;F;1988;Nano-technologist
+59853444864;Beverly;Rogers;F;1990;Software Eng.
+69413642560;Austin;Edwards;M;1991;Microbiologist
+41803992992;Carol;Palmer;F;1982;Pilot
+69698507328;Bobby;Anderson;M;1994;Sociologist
+66085477760;Albert;Richardson;M;1985;Pilot
+24926714336;Andrew;Taylor;M;1993;Neuroscientist
+39686453952;Alexander;Simpson;M;1992;Mechanical Eng.
+54514463200;Barbara;Walsh;F;1982;Software Eng.
+53287222496;Ronald;Jones;M;1982;Sociologist
+67758327968;Jennifer;Kennedy;F;1988;Student
+50369122304;Wayne;Wood;M;1984;Electronics Eng.
+29899336896;Russell;Reynolds;M;1994;Physicist
+60614305792;Jeffrey;Knight;M;1991;Resource Analyst
